@@ -1,2 +1,4 @@
 # portfolio-optimizer-DRL
-Optimizes allocations of a stock portfolio using Deep Reinforcement Learning
+This portfolio optimization project combines Hierarchical Risk Parity (HRP) with Deep Reinforcement Learning.
+
+
